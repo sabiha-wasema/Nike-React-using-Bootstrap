@@ -43,3 +43,55 @@
 .header-info button i {
   margin-right: 8px;
 }
+.product-section-heading {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 48px;
+  color: #363958;
+}
+.card img {
+  width: 311px;
+  height: 311px;
+}
+.card h5 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #363958;
+}
+.card p {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #3e3e3e;
+}
+.card-footer h1 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 42px;
+  color: #fa804c;
+}
+.card-footer button {
+  width: 170px;
+  height: 60px;
+  background-image: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+  border-radius: 10px;
+  border: none;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.card-footer i {
+  margin-right: 8px;
+}
